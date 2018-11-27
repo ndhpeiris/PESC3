@@ -3,9 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use PDF;
 
-class invoiceController extends Controller
+class quotationController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -22,17 +21,9 @@ class invoiceController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function report()
-    {
-        $pdf =PDF::loadView('invoice.create');
-        return $pdf->download('invoice.pdf');
-    }
-
     public function create()
     {
-        
-        $pdf =PDF::loadView('invoice.create');
-        return $pdf->download('invoice.pdf');
+        return view('quotation.create');
     }
 
     /**

@@ -1,0 +1,1 @@
+<p>Hi,your amount is {{$amount}}</p>

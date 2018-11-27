@@ -468,4 +468,6 @@
                 margin-top: 0.3rem !important;
             }
         </style>
+        @stack('styles')
+
     

@@ -5,7 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	@include('head')
+    @include('head')
+    <link rel="stylesheet" href="/css/card.css">
 </head>
 <body>
     <div id="app">
@@ -18,4 +19,5 @@
 	@include('footer')
 </body>
 @include('feet')
+
 </html>

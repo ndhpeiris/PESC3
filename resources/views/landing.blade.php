@@ -550,7 +550,7 @@
 															<div class="vc_tta-panels">
 																<div class="vc_tta-panel vc_active" id="1499431499597-5549258c-c582" data-vc-content=".vc_tta-panel-body">
 																	<div class="vc_tta-panel-heading">
-																		<h4 class="vc_tta-panel-title"><a href="#1499431499597-5549258c-c582" data-vc-accordion
+																		<h4 class="vc_tta-panel-title"><a href="#1499431499597-5549258c-c582"  data-vc-accordion
 																			 data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Residential Electrical</span></a></h4>
 																	</div>
 																	<div class="vc_tta-panel-body">
@@ -567,7 +567,7 @@
 																										 class="sc_services_item_icon icon-untitled-10"></a>
 																										<div class="sc_services_item_info">
 																											<div class="sc_services_item_header">
-																												<h6 class="sc_services_item_title"><a href="services/electrical-installation/index.html">Electrical
+																												<h6 class="sc_services_item_title"><a >Electrical
 																														Installation</a></h6>
 																											</div>
 																											<div class="sc_services_item_content">
@@ -579,10 +579,10 @@
 																								</div>
 																								<div class="trx_addons_column-1_2">
 																									<div class="sc_services_item without_content with_icon sc_services_item_featured_left">
-																										<a href="services/lighting/index.html" id="sc_services_1702965024_icon-untitled-10_309" class="sc_services_item_icon icon-untitled-10"></a>
+																										<a  id="sc_services_1702965024_icon-untitled-10_309" class="sc_services_item_icon icon-untitled-10"></a>
 																										<div class="sc_services_item_info">
 																											<div class="sc_services_item_header">
-																												<h6 class="sc_services_item_title"><a href="services/lighting/index.html">Lighting</a></h6>
+																												<h6 class="sc_services_item_title"><a >Lighting</a></h6>
 																											</div>
 																											<div class="sc_services_item_content">
 																												<p>Full service electrical company offering some of the most comprehensive lighting
@@ -593,7 +593,7 @@
 																								</div>
 																								<div class="trx_addons_column-1_2">
 																									<div class="sc_services_item without_content with_icon sc_services_item_featured_left">
-																										<a href="services/addition-renovation-wiring/index.html" id="sc_services_1702965024_icon-untitled-10_124"
+																										<a id="sc_services_1702965024_icon-untitled-10_124"
 																										 class="sc_services_item_icon icon-untitled-10"></a>
 																										<div class="sc_services_item_info">
 																											<div class="sc_services_item_header">
@@ -608,11 +608,11 @@
 																								</div>
 																								<div class="trx_addons_column-1_2">
 																									<div class="sc_services_item without_content with_icon sc_services_item_featured_left">
-																										<a href="services/home-generators/index.html" id="sc_services_1702965024_icon-untitled-10_193"
+																										<a id="sc_services_1702965024_icon-untitled-10_193"
 																										 class="sc_services_item_icon icon-untitled-10"></a>
 																										<div class="sc_services_item_info">
 																											<div class="sc_services_item_header">
-																												<h6 class="sc_services_item_title"><a href="services/home-generators/index.html">Home
+																												<h6 class="sc_services_item_title"><a>Home
 																														Generators</a></h6>
 																											</div>
 																											<div class="sc_services_item_content">
@@ -623,11 +623,11 @@
 																								</div>
 																								<div class="trx_addons_column-1_2">
 																									<div class="sc_services_item without_content with_icon sc_services_item_featured_left">
-																										<a href="services/electrical-repairs/index.html" id="sc_services_1702965024_icon-untitled-10_783"
+																										<a id="sc_services_1702965024_icon-untitled-10_783"
 																										 class="sc_services_item_icon icon-untitled-10"></a>
 																										<div class="sc_services_item_info">
 																											<div class="sc_services_item_header">
-																												<h6 class="sc_services_item_title"><a href="services/electrical-repairs/index.html">Electrical
+																												<h6 class="sc_services_item_title"><a>Electrical
 																														Repairs</a></h6>
 																											</div>
 																											<div class="sc_services_item_content">
@@ -638,11 +638,11 @@
 																								</div>
 																								<div class="trx_addons_column-1_2">
 																									<div class="sc_services_item without_content with_icon sc_services_item_featured_left">
-																										<a href="services/circuit-breaker-panels/index.html" id="sc_services_1702965024_icon-untitled-10_93"
+																										<a id="sc_services_1702965024_icon-untitled-10_93"
 																										 class="sc_services_item_icon icon-untitled-10"></a>
 																										<div class="sc_services_item_info">
 																											<div class="sc_services_item_header">
-																												<h6 class="sc_services_item_title"><a href="services/circuit-breaker-panels/index.html">Circuit
+																												<h6 class="sc_services_item_title"><a>Circuit
 																														Breaker Panels</a></h6>
 																											</div>
 																											<div class="sc_services_item_content">
@@ -694,7 +694,7 @@
 																										 class="sc_services_item_icon icon-untitled-10"></a>
 																										<div class="sc_services_item_info">
 																											<div class="sc_services_item_header">
-																												<h6 class="sc_services_item_title"><a href="services/new-system-installations/index.html">New
+																												<h6 class="sc_services_item_title"><a>New
 																														System Installations</a></h6>
 																											</div>
 																											<div class="sc_services_item_content">
@@ -709,7 +709,7 @@
 																										 class="sc_services_item_icon icon-untitled-10"></a>
 																										<div class="sc_services_item_info">
 																											<div class="sc_services_item_header">
-																												<h6 class="sc_services_item_title"><a href="services/upgradesretrofitting/index.html">Upgrades/Retrofitting</a></h6>
+																												<h6 class="sc_services_item_title"><a>Upgrades/Retrofitting</a></h6>
 																											</div>
 																											<div class="sc_services_item_content">
 																												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eget massa </p>
@@ -719,11 +719,11 @@
 																								</div>
 																								<div class="trx_addons_column-1_2">
 																									<div class="sc_services_item without_content with_icon sc_services_item_featured_left">
-																										<a href="services/power-quality-design/index.html" id="sc_services_495430546_icon-untitled-10_734"
+																										<a id="sc_services_495430546_icon-untitled-10_734"
 																										 class="sc_services_item_icon icon-untitled-10"></a>
 																										<div class="sc_services_item_info">
 																											<div class="sc_services_item_header">
-																												<h6 class="sc_services_item_title"><a href="services/power-quality-design/index.html">Power
+																												<h6 class="sc_services_item_title"><a >Power
 																														Quality-Design</a></h6>
 																											</div>
 																											<div class="sc_services_item_content">
@@ -734,11 +734,11 @@
 																								</div>
 																								<div class="trx_addons_column-1_2">
 																									<div class="sc_services_item without_content with_icon sc_services_item_featured_left">
-																										<a href="services/data-system-wiring/index.html" id="sc_services_495430546_icon-untitled-10_198"
+																										<a id="sc_services_495430546_icon-untitled-10_198"
 																										 class="sc_services_item_icon icon-untitled-10"></a>
 																										<div class="sc_services_item_info">
 																											<div class="sc_services_item_header">
-																												<h6 class="sc_services_item_title"><a href="services/data-system-wiring/index.html">Data
+																												<h6 class="sc_services_item_title"><a>Data
 																														System Wiring</a></h6>
 																											</div>
 																											<div class="sc_services_item_content">
@@ -749,11 +749,11 @@
 																								</div>
 																								<div class="trx_addons_column-1_2">
 																									<div class="sc_services_item without_content with_icon sc_services_item_featured_left">
-																										<a href="services/lightningsurge-protection/index.html" id="sc_services_495430546_icon-untitled-10_362"
+																										<a  id="sc_services_495430546_icon-untitled-10_362"
 																										 class="sc_services_item_icon icon-untitled-10"></a>
 																										<div class="sc_services_item_info">
 																											<div class="sc_services_item_header">
-																												<h6 class="sc_services_item_title"><a href="services/lightningsurge-protection/index.html">Lightning/Surge
+																												<h6 class="sc_services_item_title"><a >Lightning/Surge
 																														Protection</a></h6>
 																											</div>
 																											<div class="sc_services_item_content">
@@ -764,11 +764,11 @@
 																								</div>
 																								<div class="trx_addons_column-1_2">
 																									<div class="sc_services_item without_content with_icon sc_services_item_featured_left">
-																										<a href="services/parking-lot-sign-lighting/index.html" id="sc_services_495430546_icon-untitled-10_196"
+																										<a id="sc_services_495430546_icon-untitled-10_196"
 																										 class="sc_services_item_icon icon-untitled-10"></a>
 																										<div class="sc_services_item_info">
 																											<div class="sc_services_item_header">
-																												<h6 class="sc_services_item_title"><a href="services/parking-lot-sign-lighting/index.html">Parking
+																												<h6 class="sc_services_item_title"><a>Parking
 																														Lot &#038; Sign Lighting</a></h6>
 																											</div>
 																											<div class="sc_services_item_content">

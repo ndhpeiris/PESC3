@@ -19,9 +19,12 @@ Route::get('/commercial','frontendcontroller@commercialPage');
 Route::get('/test','frontendcontroller@testPage');
 Route::get('/user','frontendcontroller@userPage');
 Route::resource('appoinment','appoinmentController');
-Route::resource('invoice','invoiceController');
+Route::resource('quotation','quotationController');
 Route::resource('product','productController');
-Route::resource('/invoice/report','invoiceController@report');
+Route::get('/send','mailController@index');
+Route::post('sende','mailController@send');
+Route::get('/contactus','frontendcontroller@contactUsPage');
+
 
 Auth::routes();
 

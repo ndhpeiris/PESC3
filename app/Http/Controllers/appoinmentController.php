@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 use App\Appoinment;
 class appoinmentController extends Controller
 {
@@ -23,6 +24,9 @@ class appoinmentController extends Controller
      */
     public function create()
     {
+        if(Auth::user()==null){
+            return redirect('/');
+        }
         return view('appointment.create');
     }
 
@@ -43,8 +47,9 @@ class appoinmentController extends Controller
         
       ]);
 
-
-        return 123;
+      $message = "Appointment create successfully";
+      echo "<script type='text/javascript'>alert('$message');</script>";
+        return view('landing');
     }
 
     /**

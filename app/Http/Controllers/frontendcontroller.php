@@ -30,4 +30,8 @@ class frontendcontroller extends Controller
     public function userPage(){
         return view('user');
     }
+
+    public function contactUsPage(){
+        return view('contactUs');
+    }
 }
