@@ -409,10 +409,7 @@
 																				</div>
 																			</div>
 																		</div>
-																		<div class="sc_item_button sc_button_wrap sc_align_center"><a href="residential/index.html" id="sc_button_415353226"
-																			 class="sc_button color_style_default sc_button_default sc_item_button sc_item_button_default sc_services_button sc_button_size_normal sc_button_icon_left"><span
-																				 class="sc_button_text"><span class="sc_button_title">more benefits</span></span><!-- /.sc_button_text --></a><!-- /.sc_button -->
-																		</div><!-- /.sc_item_button -->
+																		
 																	</div><!-- /.sc_services -->
 																	<div class="vc_empty_space  vc_custom_1504256768983 height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
 																</div>
@@ -815,105 +812,7 @@
 										<div class="vc_column-inner ">
 											<div class="wpb_wrapper">
 												<div class="sc_layouts sc_layouts_default sc_layouts_239">
-													<div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1504185339386 vc_row-has-fill vc_row-no-padding">
-														<div class="wpb_column vc_column_container vc_col-sm-6 sc_layouts_column_icons_position_left">
-															<div class="vc_column-inner ">
-																<div class="wpb_wrapper"></div>
-															</div>
-														</div>
-														<div class="wpb_column vc_column_container vc_col-sm-6 sc_layouts_column_icons_position_left">
-															<div class="vc_column-inner ">
-																<div class="wpb_wrapper">
-																	<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1504185223357 vc_row-has-fill">
-																		<div class="wpb_column vc_column_container vc_col-sm-2 sc_layouts_column_icons_position_left">
-																			<div class="vc_column-inner ">
-																				<div class="wpb_wrapper"></div>
-																			</div>
-																		</div>
-																		<div class="wpb_column vc_column_container vc_col-sm-8 sc_layouts_column_icons_position_left">
-																			<div class="vc_column-inner ">
-																				<div class="wpb_wrapper">
-																					<div class="vc_empty_space  vc_custom_1504186536973 height_medium" style="height: 32px"><span
-																						 class="vc_empty_space_inner"></span></div>
-																					<div class="vc_empty_space  height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-																					<div id="sc_title_292516937" class="sc_title color_style_default scheme_dark sc_title_default">
-																						<h6 class="sc_item_subtitle sc_title_subtitle sc_align_center sc_item_title_style_default">Testimonials</h6>
-																						<h2 class="sc_item_title sc_title_title sc_align_center sc_item_title_style_default">Clients Say</h2>
-																					</div><!-- /.sc_title -->
-																					<div class="vc_empty_space  vc_custom_1504186575871 height_small" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-																					<div class="sc_testimonials color_style_default scheme_dark sc_testimonials_default">
-																						<div class="sc_testimonials_slider sc_item_slider slider_swiper_outer slider_outer slider_outer_nocontrols slider_outer_pagination slider_outer_pagination_bullets slider_outer_pagination_pos_bottom slider_outer_one">
-																							<div class="slider_container swiper-slider-container slider_swiper slider_noresize slider_nocontrols slider_pagination slider_pagination_bullets slider_pagination_pos_bottom slider_one"
-																							 data-slides-min-width="290" data-pagination="bullets">
-																								<div class="slides slider-wrapper swiper-wrapper sc_item_columns_1">
-																									<div class="slider-slide swiper-slide">
-																										<div class="sc_testimonials_item">
-																											<div class="sc_testimonials_item_content">
-																												<p>“It&#8217;s always nice to know that you can fully rely on a company and pay for an
-																													excellent job they do for you. I appreciate your wonderful customer support, thank you!”</p>
-																											</div>
-																											<div class="sc_testimonials_item_author">
-																												<div class="sc_testimonials_item_author_avatar"><img width="90" height="90" src="wp-content/uploads/2017/07/1testim-90x90.jpg"
-																													 class="attachment-electroserv-thumb-tiny size-electroserv-thumb-tiny wp-post-image" alt="John Parker"
-																													 srcset="http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1testim-90x90.jpg 90w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1testim-150x150.jpg 150w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1testim-300x300.jpg 300w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1testim-768x768.jpg 768w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1testim-75x75.jpg 75w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1testim-370x370.jpg 370w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1testim-180x180.jpg 180w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1testim-760x760.jpg 760w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1testim-740x740.jpg 740w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1testim.jpg 900w"
-																													 sizes="(max-width: 90px) 100vw, 90px" /></div>
-																												<div class="sc_testimonials_item_author_data">
-																													<h4 class="sc_testimonials_item_author_title">John Parker</h4>
-																													<div class="sc_testimonials_item_author_subtitle">Georgia</div>
-																												</div>
-																											</div>
-																										</div>
-																									</div>
-																									<div class="slider-slide swiper-slide">
-																										<div class="sc_testimonials_item">
-																											<div class="sc_testimonials_item_content">
-																												<p>“I would definitely recommen these guys to all of my friends and other potential
-																													clients. The service is really good, and I can forget about safety issues at all.”</p>
-																											</div>
-																											<div class="sc_testimonials_item_author">
-																												<div class="sc_testimonials_item_author_avatar"><img width="90" height="90" src="wp-content/uploads/2017/07/1-90x90.jpg"
-																													 class="attachment-electroserv-thumb-tiny size-electroserv-thumb-tiny wp-post-image" alt="Gerry Newman"
-																													 srcset="http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1-90x90.jpg 90w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1-150x150.jpg 150w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1-300x300.jpg 300w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1-768x768.jpg 768w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1-75x75.jpg 75w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1-370x370.jpg 370w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1-180x180.jpg 180w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1-760x760.jpg 760w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1-740x740.jpg 740w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/1.jpg 900w"
-																													 sizes="(max-width: 90px) 100vw, 90px" /></div>
-																												<div class="sc_testimonials_item_author_data">
-																													<h4 class="sc_testimonials_item_author_title">Gerry Newman</h4>
-																													<div class="sc_testimonials_item_author_subtitle">Nw Jersey</div>
-																												</div>
-																											</div>
-																										</div>
-																									</div>
-																									<div class="slider-slide swiper-slide">
-																										<div class="sc_testimonials_item">
-																											<div class="sc_testimonials_item_content">
-																												<p>“I liked the customer service team. They were professional and eager to help. All the
-																													questions were addressed and processed in time, and now I enjoy using the result!”</p>
-																											</div>
-																											<div class="sc_testimonials_item_author">
-																												<div class="sc_testimonials_item_author_avatar"><img width="90" height="90" src="wp-content/uploads/2017/07/2-90x90.jpg"
-																													 class="attachment-electroserv-thumb-tiny size-electroserv-thumb-tiny wp-post-image" alt="Janet Green"
-																													 srcset="http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/2-90x90.jpg 90w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/2-150x150.jpg 150w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/2-300x300.jpg 300w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/2-768x768.jpg 768w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/2-75x75.jpg 75w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/2-370x370.jpg 370w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/2-180x180.jpg 180w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/2-760x760.jpg 760w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/2-740x740.jpg 740w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/2.jpg 900w"
-																													 sizes="(max-width: 90px) 100vw, 90px" /></div>
-																												<div class="sc_testimonials_item_author_data">
-																													<h4 class="sc_testimonials_item_author_title">Janet Green</h4>
-																													<div class="sc_testimonials_item_author_subtitle">California</div>
-																												</div>
-																											</div>
-																										</div>
-																									</div>
-																								</div>
-																							</div>
-																							<div class="slider_pagination_wrap swiper-pagination"></div>
-																						</div>
-																					</div><!-- /.sc_testimonials -->
-																					<div class="vc_empty_space  vc_custom_1504188503038 height_small" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-																				</div>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
+													
 													<div class="vc_row-full-width vc_clearfix"></div>
 												</div>
 											</div>
@@ -928,122 +827,7 @@
 													<div class="vc_row wpb_row vc_row-fluid">
 														<div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
 															<div class="vc_column-inner ">
-																<div class="wpb_wrapper">
-																	<div class="vc_empty_space  vc_custom_1504188732325 height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-																	<div id="sc_title_2065894302" class="sc_title color_style_default sc_title_default">
-																		<h6 class="sc_item_subtitle sc_title_subtitle sc_align_center sc_item_title_style_default">our team</h6>
-																		<h2 class="sc_item_title sc_title_title sc_align_center sc_item_title_style_default">Our Professional
-																			Staff</h2>
-																	</div><!-- /.sc_title -->
-																	<div class="vc_empty_space  vc_custom_1504188762103 height_medium" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-																	<div class="sc_team color_style_default sc_team_short">
-																		<div class="sc_team_columns_wrap sc_item_columns trx_addons_columns_wrap columns_padding_bottom">
-																			<div class="trx_addons_column-1_4">
-																				<div class="sc_team_item">
-																					<div class="post_featured sc_team_item_thumb trx_addons_hover trx_addons_hover_style_info">
-																						<a href="team/nick-walker/index.html" aria-hidden="true"><img width="270" height="318" src="wp-content/uploads/2017/07/team-5-270x318.jpg"
-																							 class="attachment-electroserv-thumb-team size-electroserv-thumb-team wp-post-image" alt="Nick Walker"
-																							 srcset="http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/team-5-270x318.jpg 270w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/team-5-540x636.jpg 540w"
-																							 sizes="(max-width: 270px) 100vw, 270px" /></a>
-																						<div class="trx_addons_hover_content">
-																							<div class="sc_team_item_socials socials_wrap trx_addons_hover_info"><a target="_blank" href="#"
-																								 class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_gplus"><span
-																										 class="icon-gplus"></span></span></a><a target="_blank" href="#" class="social_item social_item_style_icons social_item_type_icons"><span
-																									 class="social_icon social_twitter"><span class="icon-twitter"></span></span></a><a target="_blank"
-																								 href="#" class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_facebook"><span
-																										 class="icon-facebook"></span></span></a></div>
-																						</div>
-																						<div class="trx_addons_hover_mask"></div>
-																					</div>
-																					<div class="sc_team_item_info">
-																						<div class="sc_team_item_header">
-																							<h4 class="sc_team_item_title"><a href="team/nick-walker/index.html">Nick Walker</a></h4>
-																							<div class="sc_team_item_subtitle">Engineer</div>
-																						</div>
-																					</div>
-																				</div>
-																			</div>
-																			<div class="trx_addons_column-1_4">
-																				<div class="sc_team_item">
-																					<div class="post_featured sc_team_item_thumb trx_addons_hover trx_addons_hover_style_info">
-																						<a href="team/roger-stevens/index.html" aria-hidden="true"><img width="270" height="318" src="wp-content/uploads/2017/07/team-6-270x318.jpg"
-																							 class="attachment-electroserv-thumb-team size-electroserv-thumb-team wp-post-image" alt="Roger Stevens"
-																							 srcset="http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/team-6-270x318.jpg 270w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/team-6-540x636.jpg 540w"
-																							 sizes="(max-width: 270px) 100vw, 270px" /></a>
-																						<div class="trx_addons_hover_content">
-																							<div class="sc_team_item_socials socials_wrap trx_addons_hover_info"><a target="_blank" href="#"
-																								 class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_gplus"><span
-																										 class="icon-gplus"></span></span></a><a target="_blank" href="#" class="social_item social_item_style_icons social_item_type_icons"><span
-																									 class="social_icon social_twitter"><span class="icon-twitter"></span></span></a><a target="_blank"
-																								 href="https://www.facebook.com/Peiris-Electricals-193966088156225/?modal=admin_todo_tour"
-																								 class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_facebook"><span
-																										 class="icon-facebook"></span></span></a></div>
-																						</div>
-																						<div class="trx_addons_hover_mask"></div>
-																					</div>
-																					<div class="sc_team_item_info">
-																						<div class="sc_team_item_header">
-																							<h4 class="sc_team_item_title"><a href="team/roger-stevens/index.html">Roger Stevens</a></h4>
-																							<div class="sc_team_item_subtitle">Engineer</div>
-																						</div>
-																					</div>
-																				</div>
-																			</div>
-																			<div class="trx_addons_column-1_4">
-																				<div class="sc_team_item">
-																					<div class="post_featured sc_team_item_thumb trx_addons_hover trx_addons_hover_style_info">
-																						<a href="team/mark-matthews/index.html" aria-hidden="true"><img width="270" height="318" src="wp-content/uploads/2017/07/team-7-270x318.jpg"
-																							 class="attachment-electroserv-thumb-team size-electroserv-thumb-team wp-post-image" alt="Mark Matthews"
-																							 srcset="http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/team-7-270x318.jpg 270w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/team-7-540x636.jpg 540w"
-																							 sizes="(max-width: 270px) 100vw, 270px" /></a>
-																						<div class="trx_addons_hover_content">
-																							<div class="sc_team_item_socials socials_wrap trx_addons_hover_info"><a target="_blank" href="#"
-																								 class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_gplus"><span
-																										 class="icon-gplus"></span></span></a><a target="_blank" href="#" class="social_item social_item_style_icons social_item_type_icons"><span
-																									 class="social_icon social_twitter"><span class="icon-twitter"></span></span></a><a target="_blank"
-																								 href="#" class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_facebook"><span
-																										 class="icon-facebook"></span></span></a></div>
-																						</div>
-																						<div class="trx_addons_hover_mask"></div>
-																					</div>
-																					<div class="sc_team_item_info">
-																						<div class="sc_team_item_header">
-																							<h4 class="sc_team_item_title"><a href="team/mark-matthews/index.html">Mark Matthews</a></h4>
-																							<div class="sc_team_item_subtitle">Engineer</div>
-																						</div>
-																					</div>
-																				</div>
-																			</div>
-																			<div class="trx_addons_column-1_4">
-																				<div class="sc_team_item">
-																					<div class="post_featured sc_team_item_thumb trx_addons_hover trx_addons_hover_style_info">
-																						<a href="team/peter-foster/index.html" aria-hidden="true"><img width="270" height="318" src="wp-content/uploads/2017/07/team-8-270x318.jpg"
-																							 class="attachment-electroserv-thumb-team size-electroserv-thumb-team wp-post-image" alt="Peter Foster"
-																							 srcset="http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/team-8-270x318.jpg 270w, http://electroserv.ancorathemes.com/wp-content/uploads/2017/07/team-8-540x636.jpg 540w"
-																							 sizes="(max-width: 270px) 100vw, 270px" /></a>
-																						<div class="trx_addons_hover_content">
-																							<div class="sc_team_item_socials socials_wrap trx_addons_hover_info"><a target="_blank" href="#"
-																								 class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_gplus"><span
-																										 class="icon-gplus"></span></span></a><a target="_blank" href="#" class="social_item social_item_style_icons social_item_type_icons"><span
-																									 class="social_icon social_twitter"><span class="icon-twitter"></span></span></a><a target="_blank"
-																								 href="#" class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_facebook"><span
-																										 class="icon-facebook"></span></span></a></div>
-																						</div>
-																						<div class="trx_addons_hover_mask"></div>
-																					</div>
-																					<div class="sc_team_item_info">
-																						<div class="sc_team_item_header">
-																							<h4 class="sc_team_item_title"><a href="team/peter-foster/index.html">Peter Foster</a></h4>
-																							<div class="sc_team_item_subtitle">Engineer</div>
-																						</div>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-
-																	</div><!-- /.sc_team -->
-																	<div class="vc_empty_space  vc_custom_1504188964918 height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-																</div>
+																
 															</div>
 														</div>
 													</div>
@@ -1069,6 +853,7 @@
 										<div class="vc_column-inner ">
 											<div class="wpb_wrapper">
 												<div class="sc_layouts sc_layouts_default sc_layouts_222">
+													@if(Auth::user() !=null)
 													<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1504103990517 vc_row-has-fill vc_row-o-content-middle vc_row-flex">
 														<div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
 															<div class="vc_column-inner ">
@@ -1111,6 +896,7 @@
 															</div>
 														</div>
 													</div>
+													@endif
 													<div class="vc_row-full-width vc_clearfix"></div>
 												</div>
 											</div>

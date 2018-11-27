@@ -3,7 +3,7 @@
         border: 0;
         border-radius: 0.1875rem;
         position: relative;
-        width: 500px;
+        width: 900px;
         margin-bottom: 30px;
         box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
         padding: 30px;
@@ -15,7 +15,7 @@
     .container-appointment {
         justify-content: center !important;
         margin: auto;
-        width: 700px;
+        width: 800px;
         padding: 30px;
         display: inline-block;
     }

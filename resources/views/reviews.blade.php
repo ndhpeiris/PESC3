@@ -11,7 +11,7 @@
 	<meta name="format-detection" content="telephone=no">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="../xmlrpc.html">
-	<title>Reviews &#8211; ElectroServ &#8211; Electrical Repair Service</title>
+	<title>Reviews &#8211; Peiris Electrical &#8211; Electrical Repair Service</title>
 	<style type="text/css" media="screen">
 		#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td a.ui-state-active,
 		#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td a.ui-state-active:hover,
@@ -210,7 +210,7 @@
 	<script type='text/javascript'>
 		/* <![CDATA[ */
 		var _wpmejsSettings = { "pluginPath": "\/wp-includes\/js\/mediaelement\/", "classPrefix": "mejs-", "stretching": "responsive" };
-/* ]]> */
+
 	</script>
 	<link rel='https://api.w.org/' href='../wp-json/index.html' />
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.html?rsd" />
@@ -565,107 +565,9 @@
 
 														<div class="strong-view strong-view-id-1 default">
 															<div class="strong-content strong-columns columns-3">
-																<div class="testimonial post-424">
-																	<div class="testimonial-inner">
-																		<div class="testimonial-content">
-																			<div class="maybe-clear"></div>
-																			<p>“The service was impeccable! I did not expect such fast and effective help, however you proved me
-																				wrong and keep doing it again and again! I appreciate your assistance guys! Thank you and good luck
-																				in the future!”</p>
-																		</div>
-																		<div class="testimonial-client">
-																			<div class=""><span class="strong-rating-wrapper in-view"><span class="strong-rating"><span class="star "
-																						 style="display: none;"></span><span class="star "></span><span class="star "></span><span class="star "></span><span
-																						 class="star "></span><span class="star current"></span></span></span></div>
-																			<div class="rating_name">Luke Williams</div>
-																		</div>
-																		<div class="clear"></div>
-																	</div>
-																</div>
-																<div class="testimonial post-429">
-																	<div class="testimonial-inner">
-																		<div class="testimonial-content">
-																			<div class="maybe-clear"></div>
-																			<p>“Robert was awesome. We had an unexpected emergency, and were on edge of desperacy! Thank you so
-																				much for the super fast and professional help with the lights! Wish you many more customers!”</p>
-																		</div>
-																		<div class="testimonial-client">
-																			<div class=""><span class="strong-rating-wrapper in-view"><span class="strong-rating"><span class="star "
-																						 style="display: none;"></span><span class="star "></span><span class="star "></span><span class="star "></span><span
-																						 class="star "></span><span class="star current"></span></span></span></div>
-																			<div class="rating_name">Janet Green</div>
-																		</div>
-																		<div class="clear"></div>
-																	</div>
-																</div>
-																<div class="testimonial post-430">
-																	<div class="testimonial-inner">
-																		<div class="testimonial-content">
-																			<div class="maybe-clear"></div>
-																			<p>“Losing electricity for several days is horrific! There seemed to be a complicated issue that
-																				would take days and a lot of money to resolve, but your experts fixed it right away and for a good
-																				price.”</p>
-																		</div>
-																		<div class="testimonial-client">
-																			<div class=""><span class="strong-rating-wrapper in-view"><span class="strong-rating"><span class="star "
-																						 style="display: none;"></span><span class="star "></span><span class="star "></span><span class="star "></span><span
-																						 class="star "></span><span class="star current"></span></span></span></div>
-																			<div class="rating_name">Peter Stevens</div>
-																		</div>
-																		<div class="clear"></div>
-																	</div>
-																</div>
-																<div class="testimonial post-432">
-																	<div class="testimonial-inner">
-																		<div class="testimonial-content">
-																			<div class="maybe-clear"></div>
-																			<p>“Living in an old building puts at rish the electrical system. I know for sure that I can
-																				completely rely on your services and stay calm about the lightning and the heating. Thank you so
-																				much! I am very happy.”</p>
-																		</div>
-																		<div class="testimonial-client">
-																			<div class=""><span class="strong-rating-wrapper in-view"><span class="strong-rating"><span class="star "
-																						 style="display: none;"></span><span class="star "></span><span class="star "></span><span class="star "></span><span
-																						 class="star "></span><span class="star current"></span></span></span></div>
-																			<div class="rating_name">Penny Jones</div>
-																		</div>
-																		<div class="clear"></div>
-																	</div>
-																</div>
-																<div class="testimonial post-434">
-																	<div class="testimonial-inner">
-																		<div class="testimonial-content">
-																			<div class="maybe-clear"></div>
-																			<p>“Outstanding Service! I was very impressed with the knowledge and the abilities of the technician
-																				guy that had answered my service call. The job was done quickly, correctly and at a pretty fair
-																				price!”</p>
-																		</div>
-																		<div class="testimonial-client">
-																			<div class=""><span class="strong-rating-wrapper in-view"><span class="strong-rating"><span class="star "
-																						 style="display: none;"></span><span class="star "></span><span class="star "></span><span class="star "></span><span
-																						 class="star "></span><span class="star current"></span></span></span></div>
-																			<div class="rating_name">Chris Lee</div>
-																		</div>
-																		<div class="clear"></div>
-																	</div>
-																</div>
-																<div class="testimonial post-435">
-																	<div class="testimonial-inner">
-																		<div class="testimonial-content">
-																			<div class="maybe-clear"></div>
-																			<p>“Me and my family are regular clients of your company, and we couldn&#8217;t be happier! I would
-																				recommend these guys to everyone, because of the amazing, fast and affordable service that leaves
-																				great impression!”</p>
-																		</div>
-																		<div class="testimonial-client">
-																			<div class=""><span class="strong-rating-wrapper in-view"><span class="strong-rating"><span class="star "
-																						 style="display: none;"></span><span class="star "></span><span class="star "></span><span class="star "></span><span
-																						 class="star "></span><span class="star current"></span></span></span></div>
-																			<div class="rating_name">Martin Smith</div>
-																		</div>
-																		<div class="clear"></div>
-																	</div>
-																</div>
+
+
+
 															</div>
 														</div>
 
@@ -694,37 +596,23 @@
 														<div class="strong-view strong-form strong-view-id-2 default-form" data-state=idle>
 															<div id="wpmtst-form">
 																<div class="strong-form-inner">
-																	<form id="wpmtst-submission-form" method="post" enctype="multipart/form-data" autocomplete="off">
-																		<div style="display: none;"><input type="hidden" id="wpmtst_form_nonce" name="wpmtst_form_nonce"
-																			 value="b68a134dfa" /><input type="hidden" name="_wp_http_referer" value="/reviews/" /><input type="hidden"
-																			 name="action" value="wpmtst_form"><input type="hidden" name="form_id" value="1"><input type="hidden"
-																			 name="default_category" value=""><input type="hidden" name="category" value=""></div>
-																		<div class="form-field field-rating"><label for="wpmtst_rating">Your Rating</label><span class="required symbol"></span><span
-																			 class="before"></span>
-																			<div class="strong-rating-wrapper field-wrap in-form">
-																				<fieldset contenteditable=false id="wpmtst_rating" name="rating" class="strong-rating"
-																				 data-field-type="rating" tabindex="0"><input type="radio" id="rating-star0" name="rating" value="0" /><label
-																					 for="rating-star0" title="No stars"></label><input type="radio" id="rating-star1" name="rating"
-																					 value="1" /><label for="rating-star1" title="1 star"></label><input type="radio" id="rating-star2"
-																					 name="rating" value="2" /><label for="rating-star2" title="2 stars"></label><input type="radio"
-																					 id="rating-star3" name="rating" value="3" /><label for="rating-star3" title="3 stars"></label><input
-																					 type="radio" id="rating-star4" name="rating" value="4" /><label for="rating-star4" title="4 stars"></label><input
-																					 type="radio" id="rating-star5" name="rating" value="5" checked='checked' /><label for="rating-star5"
-																					 title="5 stars"></label></fieldset>
-																			</div><span class="after"></span>
-																		</div>
-																		<div class="form-field field-client_name"><span class="required symbol"></span><span class="before"></span><input
-																			 id="wpmtst_client_name" type="text" class="text" name="client_name" value="" placeholder="Name"
-																			 required tabindex="0"><span class="after"></span></div>
-																		<div class="form-field field-email"><span class="required symbol"></span><span class="before"></span><input
-																			 id="wpmtst_email" type="email" class="text email" name="email" value="" placeholder="Email"
-																			 required tabindex="0"><span class="after"></span></div>
-																		<div class="form-field field-post_content"><span class="required symbol"></span><span class="before"></span><textarea
-																			 id="wpmtst_post_content" name="post_content" class="" required placeholder="Leave your review here"
-																			 tabindex="0"></textarea><span class="after"></span></div>
-																		<div class="form-field wpmtst-submit"><label><input type="submit" id="wpmtst_submit_testimonial" name="wpmtst_submit_testimonial"
-																				 value="submit" class="button" tabindex="0"></label></div>
-																	</form>
+
+																	{!! Form::open(['action' => 'frontendcontroller@submitreviewPage' , 'method' => 'post']) !!}
+																	<div class="form-group">
+																		{{Form::label('name','Name')}}
+																		{{Form::text('name','',['class' => 'form-control','placeholder' =>'name'])}}
+
+																		{{Form::label('email','E-mail')}}
+																		{{Form::text('email','',['class' => 'form-control','placeholder' =>'e-mail'])}}
+
+																		{{Form::label('description','Description')}}
+																		{{Form::text('description','',['class' => 'form-control','placeholder' =>'description'])}}
+
+
+																	</div>
+																	{{Form::Submit('Submit',['class'=>'btn btn-primary'])}}
+																	{!! Form::close() !!}
+
 																</div>
 															</div>
 														</div>

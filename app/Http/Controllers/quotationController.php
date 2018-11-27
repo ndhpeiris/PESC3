@@ -3,6 +3,9 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use app\Service;
+use Illuminate\Support\Facades\Auth;
+use DB;
 
 class quotationController extends Controller
 {
@@ -23,7 +26,13 @@ class quotationController extends Controller
      */
     public function create()
     {
-        return view('quotation.create');
+        if(Auth::user()==null){
+            return redirect('/');
+        }
+
+        $service = DB::select(DB::raw("select `name`,`price` from service;"));
+        
+        return view('quotation.create',compact('service'));
     }
 
     /**

@@ -3,6 +3,9 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use app\Appoinment;
+use DB;
 
 class HomeController extends Controller
 {
@@ -23,8 +26,19 @@ class HomeController extends Controller
      */
     public function index()
     {
-        
+
+        if(Auth::user()->user_roll ==0){
             return view('landing');
+
+        }else if(Auth::user()->user_roll ==1){
+            $req = DB::select(DB::raw("select * from appoinments;"));
+            
+            return view('employee');
+
+        }else{
+            return view('landing');
+
+        }
         
     }
 }

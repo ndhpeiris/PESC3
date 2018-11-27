@@ -13,6 +13,7 @@
 
 Route::get('/','frontendcontroller@landingPage');
 Route::get('/review','frontendcontroller@reviewPage');
+Route::post('/submitreview','frontendcontroller@submitreviewPage');
 Route::get('/residential','frontendcontroller@residentialPage');
 Route::get('/commercial','frontendcontroller@commercialPage');
 

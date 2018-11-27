@@ -16,26 +16,9 @@
 					 data-animation-in="fadeInUpSmall" data-animation-out="fadeOutDownSmall">
 						<ul id="menu-main-menu" class="sc_layouts_menu_nav">
 							<li id="menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224"><a href="/"><span>Home</span></a></li>
-							<li id="menu-item-148" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-148"><a
-								 href="#"><span>Features</span></a>
-								<ul class="sub-menu">
-									<li id="menu-item-260" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-260"><a
-										 href="#"><span>About Us</span></a>
-										<ul class="sub-menu">
-											<li id="menu-item-261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261"><a
-												 href="{{URL::to('/')}}/our-benefits/index.html"><span>Our Benefits</span></a></li>
-											<li id="menu-item-262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262"><a
-												 href="{{URL::to('/')}}/our-experts/index.html"><span>Our Experts</span></a></li>
-										</ul>
-									</li>
-
-									<li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a
-										 href="#"><span>Gallery</span></a>
-										
-									</li>
-								</ul>
-							</li>
-							@if(Auth ::user() !=null)
+							
+							@if(Auth::user() !=null)
+							@if(Auth::user()->user_roll ==2)
 							<li id="menu-item-148" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-148"><a
 								href="#"><span>Shedule</span></a>
 							   <ul class="sub-menu">
@@ -48,7 +31,14 @@
 							   </ul>
 						   </li>
 						   	
-							<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="{{URL::to('/')}}/commercial/index.html"><span>Reviews</span></a></li>
+							<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="/review"><span>Review</span></a></li>
+							@endif
+							@endif
+							@if(Auth::user() !=null)
+							@if(Auth::user()->user_roll ==1)
+							
+							<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="/quotation/create"><span>Quotation</span></a></li>
+							@endif
 							@endif
 							@if(Auth ::user() ==null)
 							<li id="menu-item-148" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-148"><a
@@ -66,8 +56,9 @@
 								href="#"><span>{{ Auth::user()->name }}</span></a>
 							   <ul class="sub-menu">
 
-								   
+									@if(Auth::user()->user_roll ==1)
 								   <li id="menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="{{route('login')}}"><span>YOUR PROFILE</span></a></li>
+								   @endif
 								   <li id="menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a class="dropdown-item" href="{{ route('logout') }}"
                                        onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">

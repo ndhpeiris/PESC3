@@ -14,7 +14,7 @@
 															<div id="widget_contacts_1689842387" class="widget_area sc_widget_contacts vc_widget_contacts wpb_content_element">
 																<div class="widget widget_contacts">
 																	<div class="contacts_wrap">
-																		<div class="contacts_logo"><img src="wp-content/uploads/2017/07/logo.png" alt="" width="207"
+																		<div class="contacts_logo"><img src="wp-content/uploads/2017/07/logof.png" alt="" width="207"
 																			 height="47"></div>
 																		<div class="contacts_description">
 																			<p>For An Efficient Service.</p>
